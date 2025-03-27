@@ -1,0 +1,26 @@
+Easy Questions:
+1--- What is the total sales revenue generated from all pizza orders?
+
+2--- What is the total sales revenue and number of orders for each month?
+
+3--- How many total orders are placed on each day?
+
+4--- How do sales compare between weekends and weekdays?
+
+Medium Questions:
+5--- Which pizza category has the highest total sales by quantity?
+
+6--- During which hours of the day do we observe the highest sales revenue?
+
+7--- Which pizza type has the lowest total sales by quantity?
+
+8--- Which are the top three most popular pizza ingredients based on order count?
+
+9--- Which pizzas are the best-selling on weekends?
+
+10--- What is the best time slot for offering discounts based on order volume?
+
+Hard Questions:
+11--- Which order had the highest total value, and how many pizzas were included in it?
+
+12--- What is the monthly growth rate of total orders?
